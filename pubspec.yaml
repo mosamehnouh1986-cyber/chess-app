@@ -1,3 +1,8 @@
+import 'package:flutter/material.dart';
+import 'chess_logic.dart';
+import 'bot.dart';
+import 'sound.dart';
+
 name: chess_app
 description: Chess game
 publish_to: 'none'
